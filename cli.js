@@ -1,4 +1,4 @@
-const {program} = require('commander');
+const program = require('commander');
 const api = require('./index.js')
 program.version('0.0.1');
 
